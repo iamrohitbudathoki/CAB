@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "385417252610",
+    "firebase_url": "https://cabapp-4f23d.firebaseio.com",
+    "project_id": "cabapp-4f23d",
+    "storage_bucket": "cabapp-4f23d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385417252610:android:10897ff2f059e19e",
+        "android_client_info": {
+          "package_name": "com.geetapoojakaran.cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385417252610-vds1s60hc2kcd87s6ii17ma0kcvfqhdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geetapoojakaran.cab",
+            "certificate_hash": "6913d1d2cc57fac9d3078e36d0e64e1c8912947a"
+          }
+        },
+        {
+          "client_id": "385417252610-makh91oskutgs8fr4u4ru510d0i68h74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxacqtSaWj126pszR_uQgcATVX6Pyr8f8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385417252610-makh91oskutgs8fr4u4ru510d0i68h74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
